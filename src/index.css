@@ -1,0 +1,21 @@
+#root,
+html,
+body {
+  height: 100vh;
+}
+
+/* Body Styling */
+body {
+  margin: 0;
+  background-color: whitesmoke;
+}
+
+/* All Styling */
+* {
+  box-sizing: border-box;
+}
+
+/* Html Style */
+html {
+  scroll-behavior: smooth;
+}
